@@ -1,8 +1,6 @@
 # Path to your oh-my-bash installation.
 export OSH=/root/.oh-my-bash
-export PINTOS_HOME=~/pintos
-PINTOSPH="" # stop@000001
-export PINTOSPH
+
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-bash is loaded.
 OSH_THEME="font"
